@@ -19,7 +19,7 @@ const AboutMe = () => {
             with an interest rate as low as 1.49%. I assist clients with their loan applications 
             for CTBC Bank, providing support throughout the process and keeping them informed 
             about their application status. These loans can be used for home renovations, tuition 
-            fees, travel expenses, and many more.
+            fees, travel expenses, business, and many more.
           </p>
           <p>
             If you know anyone—friends, family, or colleagues—who might be interested in applying 
