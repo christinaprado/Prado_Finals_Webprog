@@ -33,7 +33,7 @@ const Navigation = ({ sections, activeSection, setActiveSection }) => {
     <nav className={`navigation ${scrolled ? 'scrolled' : ''}`}>
       <div className="nav-container">
         <div className="logo">
-          <h2>Jane Doe</h2>
+          <h2>Christina Prado</h2>
         </div>
         
         <div className={`menu-toggle ${menuOpen ? 'active' : ''}`} onClick={() => setMenuOpen(!menuOpen)}>
