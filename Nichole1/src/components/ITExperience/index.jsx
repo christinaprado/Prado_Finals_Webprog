@@ -7,25 +7,25 @@ const ITExperience = () => {
       id: 1,
       role: 'Personal Website',
       company: 'Asia Pacific College',
-      period: '2024-Present',
+      period: 'August 2025',
       description: 'I developed a personal website using HTML, CSS, and JavaScript, showcasing my web development skills by designing a responsive interface and integrating interactive features.',
       skills: ['HTML', 'CSS', 'JavaScript']
     },
     {
       id: 2,
-      role: 'App Development',
+      role: 'Web Development',
       company: 'Asia Pacific College',
-      period: '2024-Present',
-      description: 'I tried creating a mobile application, focusing on user-friendly design and functionality, utilizing programming languages like Java/Kotlin to enhance my app development and problem-solving skills that did not solve my problems.',
-      skills: ['Dart', 'Java']
+      period: 'Agust 2025-March 2026',
+      description: 'I took on the role of a Team Lead to design and build a web application for our first client, focusing on UI/UX and front-end development to sharpen my project management and web coding skills.',      
+      skills: ['HTML', 'CSS', 'Javascript']
     },
     {
       id: 3,
-      role: 'Database in SQL',
+      role: 'Mobile Application Development',
       company: 'Asia Pacific College',
-      period: '2024-Present',
-      description: 'I designed and implemented an SQL database for our projects that helped me expand my knowledge.',
-      skills: ['MySQLWorkbench']
+      period: 'August 2026-Present',
+      description: 'I led the project team and built front-end features for a patient referral mobile application, focusing on offline functionality and smooth user navigation.',      
+      skills: ['React Native', 'JavaScript', 'UI/UX Design']
     }
   ];
 
