@@ -135,7 +135,7 @@ const Feedback = () => {
             <div className="contact-icon">📧</div>
             <div className="contact-text">
               <h3>Email</h3>
-              <p>cnprado24@gmail.com</p>
+              <p>christinabprado@gmail.com</p>
             </div>
           </div>
           

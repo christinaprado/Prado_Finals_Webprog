@@ -16,22 +16,22 @@ const PhotoGallery = () => {
     {
       id: 1,
       url: gallery1,
-      title: 'Evening with Friends',
-      description: 'Evening selfie with a friend under beautiful fairy lights in an outdoor setting, creating a warm and magical atmosphere.',
-      category: 'Friends'
+      title: 'Evening with Cousins',
+      description: 'Evening selfie with my cousins in Intramuros.',
+      category: 'Cousins'
     },
     {
       id: 2,
       url: gallery2,
-      title: 'Café Gathering',
-      description: 'Enjoying coffee and pastries with friends at a cozy café with large windows overlooking the city.',
+      title: 'Mall Gathering',
+      description: 'Enjoying Pepperlunch and Takoyaki with friends at Glorietta with large windows overlooking the city.',
       category: 'Food & Drinks'
     },
     {
       id: 3,
       url: gallery3,
-      title: 'Ocean Sunset',
-      description: 'Watching a breathtaking golden sunset over the ocean from a scenic viewpoint, with sunlight streaming through the clouds.',
+      title: 'Tagaytay Sunrise',
+      description: 'Watching a breathtaking golden sunrise over the Taal Lake.',
       category: 'Nature'
     },
     {
@@ -45,14 +45,14 @@ const PhotoGallery = () => {
       id: 5,
       url: gallery5,
       title: 'Dinner Celebration',
-      description: 'Dinner gathering with a group of friends at a restaurant, celebrating and enjoying each other\'s company.',
+      description: 'Dinner gathering with my colleagues at the bar, celebrating and enjoying each other\'s company.',
       category: 'Social'
     },
     {
       id: 6,
       url: gallery6,
       title: 'Café Work Session',
-      description: 'Working session at a café with colleagues, sharing ideas over coffee with a laptop on the table.',
+      description: 'Working session at a Starbucks with my friends, sharing ideas over coffee with a laptop on the table.',
       category: 'Work'
     },
     {
