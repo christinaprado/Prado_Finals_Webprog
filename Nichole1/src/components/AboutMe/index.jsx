@@ -9,7 +9,7 @@ const AboutMe = () => {
         <div className="about-text">
           <h1>Hello! I'm Christina Prado</h1>
           <p>
-            Welcome to my personal website! I'm a second-year student at Asia Pacific College, 
+            Welcome to my personal website! I'm a fourth-year student at Asia Pacific College, 
             pursuing a Bachelor of Science in Information Technology with a specialization in 
             Mobile and Internet Technologies.
           </p>
@@ -22,9 +22,8 @@ const AboutMe = () => {
             fees, travel expenses, business, and many more.
           </p>
           <p>
-            If you know anyone—friends, family, or colleagues—who might be interested in applying 
-            for a Salary Stretch Loan, don't hesitate to refer them to me. I'm more than happy to 
-            guide them every step of the way!
+            Special thanks to Michael Christian Cecilio! For helping me with the design and 
+            development of this website!
           </p>
           <div className="social-links">
             <a href="#" className="social-link">LinkedIn</a>
