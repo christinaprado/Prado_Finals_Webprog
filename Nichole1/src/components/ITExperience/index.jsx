@@ -15,7 +15,7 @@ const ITExperience = () => {
       id: 2,
       role: 'Web Development',
       company: 'Asia Pacific College',
-      period: 'Agust 2025-March 2026',
+      period: 'August 2025-March 2026',
       description: 'I took on the role of a Team Lead to design and build a web application for our first client, focusing on UI/UX and front-end development to sharpen my project management and web coding skills.',      
       skills: ['HTML', 'CSS', 'Javascript']
     },
@@ -25,7 +25,7 @@ const ITExperience = () => {
       company: 'Asia Pacific College',
       period: 'August 2026-Present',
       description: 'I led the project team and built front-end features for a patient referral mobile application, focusing on offline functionality and smooth user navigation.',      
-      skills: ['React Native', 'JavaScript', 'UI/UX Design']
+      skills: ['React Native', 'UI/UX Design']
     }
   ];
 
