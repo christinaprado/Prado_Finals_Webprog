@@ -15,14 +15,14 @@ const AboutMe = () => {
           </p>
           <p>
             Aside from my studies, I work part-time as a Loans Specialist, offering Salary 
-            Stretch Loans—also known as Personal Loans—where clients can borrow up to ₱1M to ₱2M 
+            Stretch Loans also known as Personal Loanswhere clients can borrow up to ₱1M to ₱2M 
             with an interest rate as low as 1.49%. I assist clients with their loan applications 
             for CTBC Bank, providing support throughout the process and keeping them informed 
             about their application status. These loans can be used for home renovations, tuition 
             fees, travel expenses, business, and many more.
           </p>
           <p>
-            Special thanks to Michael Christian Cecilio! For helping me with the design and 
+            Big special thanks to Michael Christian Cecilio! For helping me with the design and 
             development of this website!
           </p>
         </div>
