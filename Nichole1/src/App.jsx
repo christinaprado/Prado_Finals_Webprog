@@ -4,7 +4,6 @@ import Navigation from './components/Navigation';
 import AboutMe from './components/AboutMe';
 import Education from './components/Education';
 import Hobbies from './components/Hobbies';
-import Goals from './components/Goals';
 import ITExperience from './components/ITExperience';
 import PhotoGallery from './components/PhotoGallery';
 import Feedback from './components/Feedback';
@@ -17,7 +16,6 @@ function App() {
     { id: 'about', label: 'About Me', component: <AboutMe /> },
     { id: 'education', label: 'Education', component: <Education /> },
     { id: 'hobbies', label: 'Hobbies', component: <Hobbies /> },
-    { id: 'goals', label: 'Goals', component: <Goals /> },
     { id: 'experience', label: 'IT Experience', component: <ITExperience /> },
     { id: 'gallery', label: 'Photo Gallery', component: <PhotoGallery /> },
     { id: 'feedback', label: 'Feedback', component: <Feedback /> }

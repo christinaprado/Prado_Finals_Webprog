@@ -25,11 +25,6 @@ const AboutMe = () => {
             Special thanks to Michael Christian Cecilio! For helping me with the design and 
             development of this website!
           </p>
-          <div className="social-links">
-            <a href="#" className="social-link">LinkedIn</a>
-            <a href="#" className="social-link">GitHub</a>
-            <a href="#" className="social-link">Twitter</a>
-          </div>
         </div>
         <div className="about-image">
           <div className="profile-image">
